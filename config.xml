@@ -1,0 +1,3 @@
+<widget>
+	<gap:plugin name="dk.gi2.plugins.meteorcordova" />
+</widget>
